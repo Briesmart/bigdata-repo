@@ -1,0 +1,57 @@
+{
+    "Versions": [
+        {
+            "ETag": "\"84c23de52482a28ff7e9224f05e85527\"",
+            "Size": 5855,
+            "StorageClass": "STANDARD",
+            "Key": "bronze/users.csv",
+            "VersionId": "6720ead0a268798ff253f5301f1eeb3b",
+            "IsLatest": false,
+            "LastModified": "2026-10-16T18:14:29+00:00",
+            "Owner": {
+                "DisplayName": "admin",
+                "ID": "admin"
+            }
+        },
+        {
+            "ETag": "\"931d94c9bf37fccaeb71e7cffaf93989\"",
+            "Size": 7351,
+            "StorageClass": "STANDARD",
+            "Key": "bronze/users.csv",
+            "VersionId": "6720ead11e9bd63658b9d27eb21b05d4",
+            "IsLatest": false,
+            "LastModified": "2026-10-16T18:14:27+00:00",
+            "Owner": {
+                "DisplayName": "admin",
+                "ID": "admin"
+            }
+        },
+        {
+            "ETag": "\"931d94c9bf37fccaeb71e7cffaf93989\"",
+            "Size": 7351,
+            "StorageClass": "STANDARD",
+            "Key": "bronze/users.csv",
+            "VersionId": "null",
+            "IsLatest": false,
+            "LastModified": "2026-10-16T18:13:23+00:00",
+            "Owner": {
+                "DisplayName": "admin",
+                "ID": "admin"
+            }
+        }
+    ],
+    "DeleteMarkers": [
+        {
+            "Owner": {
+                "DisplayName": "anonymous",
+                "ID": "anonymous"
+            },
+            "Key": "bronze/users.csv",
+            "VersionId": "6720eace1bce9ac73d323fd4910898d3",
+            "IsLatest": true,
+            "LastModified": "2026-10-16T18:14:40+00:00"
+        }
+    ],
+    "RequestCharged": null,
+    "Prefix": "bronze/users.csv"
+}
